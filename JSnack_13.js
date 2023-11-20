@@ -9,7 +9,7 @@ sommaNumeri(arrayy)
 
 
 
-// Funzioni
+// Funzione Addizione Array
 function sommaNumeri(numeri, somma=0) {
 
     for (let i = 0; i < numeri.length; i++) {
@@ -18,5 +18,4 @@ function sommaNumeri(numeri, somma=0) {
 
     console.log(somma);
 }
-
 
